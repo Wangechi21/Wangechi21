@@ -1,5 +1,5 @@
 <h1 align="center"&gt;>Hi 👋, I'm Yvonne Wangeci</h1?&gt;
-<h3 align="center">;Software Developer</h3>&gt;
+<h3 align="center">;Software Developer</h3>
 
 ---
 
@@ -41,13 +41,13 @@ I'm a tech enthusiast who loves building projects and solving problems with code
 
 ### 📊 GitHub Stats
 
-&lt;<p align="center">&gt;
-  &lt;<img src="https://github-readme-stats.vercel.app/api?username=Wangechi21&show_icons=true&theme=radical" alt="GitHub Stats" />&gt;
-&lt;</p>&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wangechi21&show_icons=true&theme=radical" alt="GitHub Stats" />&gt;
+&lt;</p>
 
-&lt;<p align="center">&gt;
-  &lt;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wangechi21&theme=radical" alt="GitHub Streak" />&gt;
-&lt;</p>&gt;
+<p align="center">
+  &lt;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wangechi21&theme=radical" alt="GitHub Streak" />
+&lt;</p>
 
 ---
 
