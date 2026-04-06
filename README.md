@@ -1,5 +1,5 @@
-<h1> align="center"&gt;Hi 👋, I'm Yvonne Wangeci&lt;</h1?&gt;
-<h3> align="center"&gt;Software Developer &lt;</h3>&gt;
+<h1 align="center"&gt;>Hi 👋, I'm Yvonne Wangeci</h1?&gt;
+<h3 align="center">;Software Developer</h3>&gt;
 
 ---
 
@@ -41,12 +41,12 @@ I'm a tech enthusiast who loves building projects and solving problems with code
 
 ### 📊 GitHub Stats
 
-&lt;<p> align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Wangechi21&show_icons=true&theme=radical" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
+&lt;<p align="center">&gt;
+  &lt;<img src="https://github-readme-stats.vercel.app/api?username=Wangechi21&show_icons=true&theme=radical" alt="GitHub Stats" />&gt;
+&lt;</p>&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Wangechi21&theme=radical" alt="GitHub Streak" /&gt;
+&lt;<p align="center">&gt;
+  &lt;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wangechi21&theme=radical" alt="GitHub Streak" />&gt;
 &lt;</p>&gt;
 
 ---
@@ -71,6 +71,6 @@ I'm a tech enthusiast who loves building projects and solving problems with code
 
 ---
 
-&lt;<p> align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Wangechi21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
-&lt;</p>&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wangechi21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
