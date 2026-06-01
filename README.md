@@ -1,5 +1,5 @@
-<h1 align="center"&gt;>Hi 👋, I'm Yvonne Wangeci</h1?&gt;
-<h3 align="center">;Software Developer</h3>
+<h1 align="center"&gt;>Hi 👋 I'm Yvonne Wangeci</h1?
+<h3 align="center">Software Developer</h3>
 
 ---
 
